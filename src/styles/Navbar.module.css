@@ -1,0 +1,33 @@
+.div {
+    
+    height: 50px;
+}
+.logoImage {
+    height: 50px;
+    background-color: aliceblue;
+    border-radius: 15px;
+   margin: 10px;
+ 
+}
+.userContainer {
+   display: flex; 
+  flex-direction: column; 
+   float: right;
+   padding: 10px; 
+  }
+.user {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.btn {
+    background-color: #DBD3D3;
+   border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float: right;
+}

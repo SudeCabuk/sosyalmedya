@@ -1,0 +1,64 @@
+
+.item {
+    text-align: center;
+   
+}
+.divform {
+    text-align: center;
+    
+}
+.baslik {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    color: pink;
+}
+.input {
+    width: 20%;
+    height: 15px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    margin-bottom: 20px;
+}
+.textarea {
+    width: 20%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+.postlist {
+    background-color: #FF4E88;
+    width: 100%;
+    height: 1000vh;
+
+}
+.btn {
+   margin:10px;
+    background-color: #DBD3D3; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 10px;
+  
+}
+.commentInput {
+    height: 50px;
+    width: 20%;
+    resize: none;
+    padding: 4px;
+
+}
